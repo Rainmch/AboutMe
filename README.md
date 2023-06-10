@@ -11,14 +11,22 @@ I'm a passionate Java full stack Jr developer, focused on creating scalable web 
 - Agile Methodologies: Scrum
 
 ## Featured Projects
-- [La Bolsa Roja web page] (https://github.com/Rainmch/Prod-LaBolsaRoja): This web page was developed for a real small business located in CDMX, it uses core web technology like: .
- ✅ **HTML** .
- ✅ **CSS** .
- ✅ **JavaScript** .
- Also implemented a back end service including a database in wich we use the following technology:
- ✅ **Java**
- ✅ **Spring Boot**
- ✅ **MySQL**
+- [La Bolsa Roja web page] (https://github.com/Rainmch/Prod-LaBolsaRoja): This web page was developed for a real small business located in CDMX, it uses core web technology like:  
+
+ ✅ **HTML**  
+
+ ✅ **CSS**  
+
+ ✅ **JavaScript**  
+
+ Also implemented a back end service including a database in wich we use the following technology:  
+
+ ✅ **Java**  
+
+ ✅ **Spring Boot**  
+
+ ✅ **MySQL**  
+ 
 - [Pizza Store API] (https://github.com/Rainmch/platzi-pizzeria): This is a project that simulates the back end **API** of a pizza store. This **API** is build on **Spring Boot** and **MySQL**. it has URL endpoints for every entity that the service has, and mixes native **SQL querys** and also implementation of pseudo-querys using **JPA**.
 
 ## How to Contact Me
